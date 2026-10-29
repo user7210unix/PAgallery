@@ -1,6 +1,6 @@
 # 壁紙 — a wallpaper artwork
 
-Open `index.html`. Needs internet (images stream from your papes repo).
+Open `index.html`. Needs internet (images stream frompapes repo).
 
 - Drag, scroll, trackpad or arrow keys to move through the wall. Click a piece to unroll it.
 - Only wallpapers near the screen exist in the page; the rest are not loaded or in the DOM.
